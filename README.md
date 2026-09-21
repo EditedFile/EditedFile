@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,c,html,css,nodejs,express,postgres,mongodb,redis,docker,nginx,linux,aws,gcp,cloudflare,git,github,vscode&perline=20" alt="ts js python c html css nodejs express postgres mongodb redis docker nginx linux aws gcp cloudflare git github vscode" width="620" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,c,html,css,nodejs,express,postgres,mongodb,redis,docker,nginx,linux,aws,gcp,azure,cloudflare,git,github,vscode&perline=20" alt="ts js python c html css nodejs express postgres mongodb redis docker nginx linux aws gcp cloudflare git github vscode" width="620" />
 </p>
 
 <p align="center">
